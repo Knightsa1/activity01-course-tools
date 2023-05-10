@@ -19,10 +19,12 @@ is something to consider.
 
 
 [Example 3](http://julianikulski.com/en/portfolio?lang=en)
+
 This one takes a lot of things that I liked from the first example, but it lookes more professional. It could
 be something I aspire to. Also I want ot point out that the project that pulled me in was the Falling in Love
 with AI showing that I want to showcase some passion projects.
 
 [Example 4](https://vallabhamohta.wixsite.com/portfolio/skills)
+
 This is has some fun ideas and things that I could add to mine to make it a little more unique. I specifically like
 the idea of the bar chart,a nd kind of make it my own.
