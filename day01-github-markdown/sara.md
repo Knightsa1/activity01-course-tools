@@ -5,6 +5,7 @@ I chose this meme because having one week between semesters is not enough time.
 [Example 1](https://github.com/nktnlx/data_analysis_portfolio#video-games-sales-analysis)
 
 [Example 2](https://github.com/sajal2692/data-science-portfolio)
+
 I like these two different types of resumes because it looks like something I could do right now. 
 
 The first example shows each project with the code and some slide. There is a descrpition and then the
